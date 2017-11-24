@@ -1,2 +1,1 @@
-# EvolutionalRandomForest
-PredictionModel based on DecisionTrees
+# EvolutionalForest
